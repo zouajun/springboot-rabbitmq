@@ -10,7 +10,4 @@ public class RabbitmqSpringBootApplication {
         SpringApplication.run(RabbitmqSpringBootApplication.class,args);
     }
 
-    public void aa(){
-        System.out.println("hahahah");
-    }
 }
